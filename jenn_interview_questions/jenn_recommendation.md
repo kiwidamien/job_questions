@@ -1,0 +1,5 @@
+I had the pleasure of mentoring Jennifer at Metis. She demonstrates an excellent ability to take a problem and break it down into its components. She approached all aspects of her projects with passion, creativity, and determination. Jennifer is motivated by the desire to help people, and sets ambitious goals -- and it is clear to me that she posses the the talent and intelligence to achieve them.
+
+Jennifer lets the problem dictate what approach to use, and learn what was required to solve it. It is clear to anyone that works with Jennifer that she is passionate about learning, and has an aptitude for picking up new skills. Over her time at Metis, she embraced the iterative design methodology, and is always steps to take to improve her models while ensuring useful results are obtained in a timely manner.
+
+In addition to her technical skills, Jennifer is also amazing to work with. She would bring so much energy, enthusiasm, and general positivity while she was at Metis. She always managed to make everyone feel included and valued. She would be a fantastic addition to any company.
