@@ -1,0 +1,828 @@
+current page is 1
+current page is 2
+
+    title: Machine Learning Infrastructure Engineer
+    url: https://www.spotifyjobs.com/job/machine-learning-infrastructure-engineer-oa2e8fw8/
+    locations: ['New York', 'USA']
+    categories: ['Data &amp; Analytics', 'Engineering &amp; IT', 'Machine Learning', 'Software Engineering']
+
+    
+
+    title: Data Scientist, Markets Research
+    url: https://www.spotifyjobs.com/job/data-scientist-markets-research-ofdw7fwf/
+    locations: ['London', 'UK']
+    categories: ['Analytics', 'Data &amp; Analytics']
+
+    
+
+    title: Data Scientist, User Fraud
+    url: https://www.spotifyjobs.com/job/data-scientist-user-fraud-ordg8fwc/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics']
+
+    
+
+    title: Senior Data Scientist, Creator Marketplace
+    url: https://www.spotifyjobs.com/job/senior-data-scientist-creator-marketplace-ol1u9fwz/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Research Engineer &#8211; Machine Listening
+    url: https://www.spotifyjobs.com/job/research-engineer-machine-listening-ookg9fwh/
+    locations: ['London', 'UK']
+    categories: ['Data &amp; Analytics', 'Engineering &amp; IT', 'Machine Learning', 'Software Engineering']
+
+    
+
+    title: Data Scientist, Advanced Marketing Analytics
+    url: https://www.spotifyjobs.com/job/data-scientist-advanced-marketing-analytics-o9nb9fw0/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Sr. Data Scientist &#8211; Data for Insights Practice
+    url: https://www.spotifyjobs.com/job/sr-data-scientist-data-for-insights-practice-olof9fw7/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Data Scientist, Marketing Analytics
+    url: https://www.spotifyjobs.com/job/data-scientist-marketing-analytics-o7sn9fwf/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Data Scientist, Studios Analytics
+    url: https://www.spotifyjobs.com/job/data-scientist-studios-analytics-oarp9fwj/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Manager, Marketing Insights (Measurement Capabilities &#038; Data Infrastructure)
+    url: https://www.spotifyjobs.com/job/manager-marketing-insights-measurement-capabilities-data-infrastructure-oyav9fww/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Data Engineer &#8211; Personalization
+    url: https://www.spotifyjobs.com/job/data-engineer-personalization-onek9fw4/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Engineering &amp; IT', 'Software Engineering']
+
+    
+
+    title: Senior Machine Learning Engineer &#8211; Free Mission
+    url: https://www.spotifyjobs.com/job/senior-machine-learning-engineer-free-mission-ohl58fwz/
+    locations: ['New York', 'USA']
+    categories: ['Data &amp; Analytics', 'Engineering &amp; IT', 'Machine Learning', 'Software Engineering']
+
+    
+
+    title: Machine Learning Research Scientist (London)
+    url: https://www.spotifyjobs.com/job/machine-learning-research-scientist-london-ohqf6fwc/
+    locations: ['London', 'UK']
+    categories: ['Data &amp; Analytics', 'Machine Learning', 'User Research']
+
+    
+
+    title: Data Engineer- Free Product
+    url: https://www.spotifyjobs.com/job/data-engineer-free-product-ozek9fwq/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Engineering &amp; IT', 'Software Engineering']
+
+    
+
+    title: Machine Learning Engineer
+    url: https://www.spotifyjobs.com/job/machine-learning-engineer-ogs07fwz/
+    locations: ['Boston', 'USA']
+    categories: ['Data &amp; Analytics', 'Engineering &amp; IT', 'Machine Learning', 'Software Engineering']
+
+    
+
+    title: Senior User Researcher &#8211; Creator Marketplace
+    url: https://www.spotifyjobs.com/job/senior-user-researcher-creator-marketplace-oswj9fw0/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics']
+
+    
+
+    title: Senior Machine Learning Engineer &#8211; Search
+    url: https://www.spotifyjobs.com/job/senior-machine-learning-engineer-search-oxwa9fww/
+    locations: ['London', 'UK']
+    categories: ['Data &amp; Analytics', 'Engineering &amp; IT', 'Machine Learning', 'Software Engineering']
+
+    
+
+    title: Machine Learning Engineer &#8211; Personalization
+    url: https://www.spotifyjobs.com/job/machine-learning-engineer-personalization-o4sc9fw1/
+    locations: ['New York', 'USA']
+    categories: ['Data &amp; Analytics', 'Engineering &amp; IT', 'Machine Learning', 'Software Engineering']
+
+    
+
+    title: Senior Engineer, Machine Learning &#8211; Growth Opportunities Mission
+    url: https://www.spotifyjobs.com/job/senior-engineer-machine-learning-growth-opportunities-mission-obxu8fwu/
+    locations: ['New York', 'USA']
+    categories: ['Data &amp; Analytics', 'Engineering &amp; IT', 'Machine Learning', 'Software Engineering']
+
+    
+
+    title: Engineering Manager &#8211; Personalization Platform
+    url: https://www.spotifyjobs.com/job/engineering-manager-personalization-platform-orde9fwb/
+    locations: ['Boston', 'USA']
+    categories: ['Data &amp; Analytics', 'Engineering &amp; IT', 'Machine Learning', 'Software Engineering']
+
+    
+
+    title: Senior Data Scientist &#8211; Platform &#038; Partner Experiences
+    url: https://www.spotifyjobs.com/job/senior-data-scientist-platform-partner-experiences-oyzf8fwe/
+    locations: ['Stockholm', 'Sweden']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Sr. Data Scientist &#8211; Premium Analytics
+    url: https://www.spotifyjobs.com/job/sr-data-scientist-premium-analytics-oaki9fwv/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Data Scientist &#8211; Personalization
+    url: https://www.spotifyjobs.com/job/data-scientist-personalization-ooza4fwv/
+    locations: ['Boston', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Engineering Manager &#8211; Machine Learning
+    url: https://www.spotifyjobs.com/job/engineering-manager-machine-learning-osee9fwn/
+    locations: ['Boston', 'USA']
+    categories: ['Data &amp; Analytics', 'Engineering &amp; IT', 'Machine Learning', 'Software Engineering']
+
+    
+
+    title: User Researcher &#8211; Personalization
+    url: https://www.spotifyjobs.com/job/user-researcher-personalization-op2r9fwb/
+    locations: ['Stockholm', 'Sweden']
+    categories: ['Data &amp; Analytics', 'User Research']
+
+    
+
+    title: Data Scientist &#8211; Personalization
+    url: https://www.spotifyjobs.com/job/data-scientist-personalization-oq2r9fwc/
+    locations: ['Stockholm', 'Sweden']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Senior Data Scientist &#8211; Personalization
+    url: https://www.spotifyjobs.com/job/senior-data-scientist-personalization-o41r9fwp/
+    locations: ['Stockholm', 'Sweden']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Data Science Manager
+    url: https://www.spotifyjobs.com/job/data-science-manager-okum9fw3/
+    locations: ['London', 'UK']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Analytics Engineer, Content Analytics
+    url: https://www.spotifyjobs.com/job/analytics-engineer-content-analytics-ozrp9fwi/
+    locations: ['New York', 'USA']
+    categories: ['Data &amp; Analytics', 'Data Science', 'Engineering &amp; IT', 'Software Engineering']
+
+    
+
+    title: Data Engineer &#8211; Royalties
+    url: https://www.spotifyjobs.com/job/data-engineer-royalties-o6gk9fwp/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Engineering &amp; IT', 'Software Engineering']
+
+    
+
+    title: Operations Partner &#8211; Creator Research Programs
+    url: https://www.spotifyjobs.com/job/operations-partner-creator-research-programs-odxj9fwm/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'User Research']
+
+    
+
+    title: Data Engineer &#8211; Creator Marketplace
+    url: https://www.spotifyjobs.com/job/data-engineer-creator-marketplace-opek9fwg/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Engineering &amp; IT', 'Software Engineering']
+
+    
+
+    title: Product Insights Manager, Personalization
+    url: https://www.spotifyjobs.com/job/product-insights-manager-personalization-oa0x8fwz/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics']
+
+    
+
+    title: Senior Product Insights Manager &#8211; Creator Marketplace
+    url: https://www.spotifyjobs.com/job/senior-product-insights-manager-creator-marketplace-oxvj9fwe/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics']
+
+    
+
+    title: Data Scientist &#8211; Infrastructure Engineering Insights
+    url: https://www.spotifyjobs.com/job/data-scientist-infrastructure-engineering-insights-olmj9fwj/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Research Director &#8211; Machine Learning
+    url: https://www.spotifyjobs.com/job/research-director-machine-learning-obmu8fwj/
+    locations: ['New York', 'USA']
+    categories: ['Data &amp; Analytics', 'Machine Learning', 'User Research']
+
+    
+
+    title: Research Scientist &#8211; Language Technologies
+    url: https://www.spotifyjobs.com/job/research-scientist-language-technologies-o7zh7fwe/
+    locations: ['Boston', 'USA']
+    categories: ['Data &amp; Analytics', 'Machine Learning', 'User Research']
+
+    
+
+    title: Data Scientist, Analytics &#038; Insights
+    url: https://www.spotifyjobs.com/job/data-scientist-analytics-insights-oibn9fw9/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Senior Data Scientist &#8211; Experimentation
+    url: https://www.spotifyjobs.com/job/senior-data-scientist-experimentation-o1dn9fwu/
+    locations: ['Boston', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Senior Data Scientist &#8211; Metrics
+    url: https://www.spotifyjobs.com/job/senior-data-scientist-metrics-owen9fwq/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Senior Mixed Methods Researcher
+    url: https://www.spotifyjobs.com/job/senior-mixed-methods-researcher-oden9fw7/
+    locations: []
+    categories: ['Data &amp; Analytics', 'User Research']
+
+    
+
+    title: Senior User Research
+    url: https://www.spotifyjobs.com/job/senior-user-research-odfm9fw7/
+    locations: ['Gothenburg', 'Sweden']
+    categories: ['Data &amp; Analytics', 'User Research']
+
+    
+
+    title: Manager, Data Science, Premium Analytics
+    url: https://www.spotifyjobs.com/job/manager-data-science-premium-analytics-obyn9fwp/
+    locations: ['London', 'UK']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Product Insights Manager, Consumer Experience
+    url: https://www.spotifyjobs.com/job/product-insights-manager-consumer-experience-ovfb9fwe/
+    locations: ['Gothenburg', 'Sweden']
+    categories: ['Analytics', 'Data &amp; Analytics']
+
+    
+
+    title: Senior User Researcher &#8211; Platform &#038; Partner Experiences
+    url: https://www.spotifyjobs.com/job/senior-user-researcher-platform-partner-experiences-odsk8fwh/
+    locations: ['Stockholm', 'Sweden']
+    categories: ['Analytics', 'Data &amp; Analytics']
+
+    
+
+    title: Research Scientist, Machine Learning
+    url: https://www.spotifyjobs.com/job/research-scientist-machine-learning-ookt8fwt/
+    locations: ['New York', 'USA']
+    categories: ['Data &amp; Analytics', 'Machine Learning', 'User Research']
+
+    
+
+    title: Research Scientist, Human-Computer Interaction
+    url: https://www.spotifyjobs.com/job/research-scientist-human-computer-interaction-omux9fwg/
+    locations: ['Boston', 'USA']
+    categories: ['Data &amp; Analytics', 'Machine Learning', 'User Research']
+
+    
+
+    title: Data Scientist &#8211; Personalization
+    url: https://www.spotifyjobs.com/job/data-scientist-personalization-odsd6fw8/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Data Engineer &#8211; Markets
+    url: https://www.spotifyjobs.com/job/data-engineer-markets-onhk9fwh/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Engineering &amp; IT', 'Software Engineering']
+
+    
+
+    title: Senior User Researcher
+    url: https://www.spotifyjobs.com/job/senior-user-researcher-om6u6fwc/
+    locations: ['New York', 'USA']
+    categories: ['Data &amp; Analytics', 'User Research']
+
+    
+
+    title: Machine Learning Infrastructure Engineer
+    url: https://www.spotifyjobs.com/job/machine-learning-infrastructure-engineer-oa2e8fw8/
+    locations: ['New York', 'USA']
+    categories: ['Data &amp; Analytics', 'Engineering &amp; IT', 'Machine Learning', 'Software Engineering']
+
+    
+
+    title: Data Scientist, Markets Research
+    url: https://www.spotifyjobs.com/job/data-scientist-markets-research-ofdw7fwf/
+    locations: ['London', 'UK']
+    categories: ['Analytics', 'Data &amp; Analytics']
+
+    
+
+    title: Data Scientist, User Fraud
+    url: https://www.spotifyjobs.com/job/data-scientist-user-fraud-ordg8fwc/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics']
+
+    
+
+    title: Senior Data Scientist, Creator Marketplace
+    url: https://www.spotifyjobs.com/job/senior-data-scientist-creator-marketplace-ol1u9fwz/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Research Engineer &#8211; Machine Listening
+    url: https://www.spotifyjobs.com/job/research-engineer-machine-listening-ookg9fwh/
+    locations: ['London', 'UK']
+    categories: ['Data &amp; Analytics', 'Engineering &amp; IT', 'Machine Learning', 'Software Engineering']
+
+    
+
+    title: Data Scientist, Advanced Marketing Analytics
+    url: https://www.spotifyjobs.com/job/data-scientist-advanced-marketing-analytics-o9nb9fw0/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Sr. Data Scientist &#8211; Data for Insights Practice
+    url: https://www.spotifyjobs.com/job/sr-data-scientist-data-for-insights-practice-olof9fw7/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Data Scientist, Marketing Analytics
+    url: https://www.spotifyjobs.com/job/data-scientist-marketing-analytics-o7sn9fwf/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Data Scientist, Studios Analytics
+    url: https://www.spotifyjobs.com/job/data-scientist-studios-analytics-oarp9fwj/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Manager, Marketing Insights (Measurement Capabilities &#038; Data Infrastructure)
+    url: https://www.spotifyjobs.com/job/manager-marketing-insights-measurement-capabilities-data-infrastructure-oyav9fww/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Data Engineer &#8211; Personalization
+    url: https://www.spotifyjobs.com/job/data-engineer-personalization-onek9fw4/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Engineering &amp; IT', 'Software Engineering']
+
+    
+
+    title: Senior Machine Learning Engineer &#8211; Free Mission
+    url: https://www.spotifyjobs.com/job/senior-machine-learning-engineer-free-mission-ohl58fwz/
+    locations: ['New York', 'USA']
+    categories: ['Data &amp; Analytics', 'Engineering &amp; IT', 'Machine Learning', 'Software Engineering']
+
+    
+
+    title: Machine Learning Research Scientist (London)
+    url: https://www.spotifyjobs.com/job/machine-learning-research-scientist-london-ohqf6fwc/
+    locations: ['London', 'UK']
+    categories: ['Data &amp; Analytics', 'Machine Learning', 'User Research']
+
+    
+
+    title: Data Engineer- Free Product
+    url: https://www.spotifyjobs.com/job/data-engineer-free-product-ozek9fwq/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Engineering &amp; IT', 'Software Engineering']
+
+    
+
+    title: Machine Learning Engineer
+    url: https://www.spotifyjobs.com/job/machine-learning-engineer-ogs07fwz/
+    locations: ['Boston', 'USA']
+    categories: ['Data &amp; Analytics', 'Engineering &amp; IT', 'Machine Learning', 'Software Engineering']
+
+    
+
+    title: Senior User Researcher &#8211; Creator Marketplace
+    url: https://www.spotifyjobs.com/job/senior-user-researcher-creator-marketplace-oswj9fw0/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics']
+
+    
+
+    title: Senior Machine Learning Engineer &#8211; Search
+    url: https://www.spotifyjobs.com/job/senior-machine-learning-engineer-search-oxwa9fww/
+    locations: ['London', 'UK']
+    categories: ['Data &amp; Analytics', 'Engineering &amp; IT', 'Machine Learning', 'Software Engineering']
+
+    
+
+    title: Machine Learning Engineer &#8211; Personalization
+    url: https://www.spotifyjobs.com/job/machine-learning-engineer-personalization-o4sc9fw1/
+    locations: ['New York', 'USA']
+    categories: ['Data &amp; Analytics', 'Engineering &amp; IT', 'Machine Learning', 'Software Engineering']
+
+    
+
+    title: Senior Engineer, Machine Learning &#8211; Growth Opportunities Mission
+    url: https://www.spotifyjobs.com/job/senior-engineer-machine-learning-growth-opportunities-mission-obxu8fwu/
+    locations: ['New York', 'USA']
+    categories: ['Data &amp; Analytics', 'Engineering &amp; IT', 'Machine Learning', 'Software Engineering']
+
+    
+
+    title: Engineering Manager &#8211; Personalization Platform
+    url: https://www.spotifyjobs.com/job/engineering-manager-personalization-platform-orde9fwb/
+    locations: ['Boston', 'USA']
+    categories: ['Data &amp; Analytics', 'Engineering &amp; IT', 'Machine Learning', 'Software Engineering']
+
+    
+
+    title: Senior Data Scientist &#8211; Platform &#038; Partner Experiences
+    url: https://www.spotifyjobs.com/job/senior-data-scientist-platform-partner-experiences-oyzf8fwe/
+    locations: ['Stockholm', 'Sweden']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Sr. Data Scientist &#8211; Premium Analytics
+    url: https://www.spotifyjobs.com/job/sr-data-scientist-premium-analytics-oaki9fwv/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Data Scientist &#8211; Personalization
+    url: https://www.spotifyjobs.com/job/data-scientist-personalization-ooza4fwv/
+    locations: ['Boston', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Engineering Manager &#8211; Machine Learning
+    url: https://www.spotifyjobs.com/job/engineering-manager-machine-learning-osee9fwn/
+    locations: ['Boston', 'USA']
+    categories: ['Data &amp; Analytics', 'Engineering &amp; IT', 'Machine Learning', 'Software Engineering']
+
+    
+
+    title: User Researcher &#8211; Personalization
+    url: https://www.spotifyjobs.com/job/user-researcher-personalization-op2r9fwb/
+    locations: ['Stockholm', 'Sweden']
+    categories: ['Data &amp; Analytics', 'User Research']
+
+    
+
+    title: Data Scientist &#8211; Personalization
+    url: https://www.spotifyjobs.com/job/data-scientist-personalization-oq2r9fwc/
+    locations: ['Stockholm', 'Sweden']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Senior Data Scientist &#8211; Personalization
+    url: https://www.spotifyjobs.com/job/senior-data-scientist-personalization-o41r9fwp/
+    locations: ['Stockholm', 'Sweden']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Data Science Manager
+    url: https://www.spotifyjobs.com/job/data-science-manager-okum9fw3/
+    locations: ['London', 'UK']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Analytics Engineer, Content Analytics
+    url: https://www.spotifyjobs.com/job/analytics-engineer-content-analytics-ozrp9fwi/
+    locations: ['New York', 'USA']
+    categories: ['Data &amp; Analytics', 'Data Science', 'Engineering &amp; IT', 'Software Engineering']
+
+    
+
+    title: Data Engineer &#8211; Royalties
+    url: https://www.spotifyjobs.com/job/data-engineer-royalties-o6gk9fwp/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Engineering &amp; IT', 'Software Engineering']
+
+    
+
+    title: Operations Partner &#8211; Creator Research Programs
+    url: https://www.spotifyjobs.com/job/operations-partner-creator-research-programs-odxj9fwm/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'User Research']
+
+    
+
+    title: Data Engineer &#8211; Creator Marketplace
+    url: https://www.spotifyjobs.com/job/data-engineer-creator-marketplace-opek9fwg/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Engineering &amp; IT', 'Software Engineering']
+
+    
+
+    title: Product Insights Manager, Personalization
+    url: https://www.spotifyjobs.com/job/product-insights-manager-personalization-oa0x8fwz/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics']
+
+    
+
+    title: Senior Product Insights Manager &#8211; Creator Marketplace
+    url: https://www.spotifyjobs.com/job/senior-product-insights-manager-creator-marketplace-oxvj9fwe/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics']
+
+    
+
+    title: Data Scientist &#8211; Infrastructure Engineering Insights
+    url: https://www.spotifyjobs.com/job/data-scientist-infrastructure-engineering-insights-olmj9fwj/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Research Director &#8211; Machine Learning
+    url: https://www.spotifyjobs.com/job/research-director-machine-learning-obmu8fwj/
+    locations: ['New York', 'USA']
+    categories: ['Data &amp; Analytics', 'Machine Learning', 'User Research']
+
+    
+
+    title: Research Scientist &#8211; Language Technologies
+    url: https://www.spotifyjobs.com/job/research-scientist-language-technologies-o7zh7fwe/
+    locations: ['Boston', 'USA']
+    categories: ['Data &amp; Analytics', 'Machine Learning', 'User Research']
+
+    
+
+    title: Data Scientist, Analytics &#038; Insights
+    url: https://www.spotifyjobs.com/job/data-scientist-analytics-insights-oibn9fw9/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Senior Data Scientist &#8211; Experimentation
+    url: https://www.spotifyjobs.com/job/senior-data-scientist-experimentation-o1dn9fwu/
+    locations: ['Boston', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Senior Data Scientist &#8211; Metrics
+    url: https://www.spotifyjobs.com/job/senior-data-scientist-metrics-owen9fwq/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Senior Mixed Methods Researcher
+    url: https://www.spotifyjobs.com/job/senior-mixed-methods-researcher-oden9fw7/
+    locations: []
+    categories: ['Data &amp; Analytics', 'User Research']
+
+    
+
+    title: Senior User Research
+    url: https://www.spotifyjobs.com/job/senior-user-research-odfm9fw7/
+    locations: ['Gothenburg', 'Sweden']
+    categories: ['Data &amp; Analytics', 'User Research']
+
+    
+
+    title: Manager, Data Science, Premium Analytics
+    url: https://www.spotifyjobs.com/job/manager-data-science-premium-analytics-obyn9fwp/
+    locations: ['London', 'UK']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Product Insights Manager, Consumer Experience
+    url: https://www.spotifyjobs.com/job/product-insights-manager-consumer-experience-ovfb9fwe/
+    locations: ['Gothenburg', 'Sweden']
+    categories: ['Analytics', 'Data &amp; Analytics']
+
+    
+
+    title: Senior User Researcher &#8211; Platform &#038; Partner Experiences
+    url: https://www.spotifyjobs.com/job/senior-user-researcher-platform-partner-experiences-odsk8fwh/
+    locations: ['Stockholm', 'Sweden']
+    categories: ['Analytics', 'Data &amp; Analytics']
+
+    
+
+    title: Research Scientist, Machine Learning
+    url: https://www.spotifyjobs.com/job/research-scientist-machine-learning-ookt8fwt/
+    locations: ['New York', 'USA']
+    categories: ['Data &amp; Analytics', 'Machine Learning', 'User Research']
+
+    
+
+    title: Research Scientist, Human-Computer Interaction
+    url: https://www.spotifyjobs.com/job/research-scientist-human-computer-interaction-omux9fwg/
+    locations: ['Boston', 'USA']
+    categories: ['Data &amp; Analytics', 'Machine Learning', 'User Research']
+
+    
+
+    title: Data Scientist &#8211; Personalization
+    url: https://www.spotifyjobs.com/job/data-scientist-personalization-odsd6fw8/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Data Engineer &#8211; Markets
+    url: https://www.spotifyjobs.com/job/data-engineer-markets-onhk9fwh/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Engineering &amp; IT', 'Software Engineering']
+
+    
+
+    title: Senior User Researcher
+    url: https://www.spotifyjobs.com/job/senior-user-researcher-om6u6fwc/
+    locations: ['New York', 'USA']
+    categories: ['Data &amp; Analytics', 'User Research']
+
+    
+
+    title: VP of Engineering &#8211; Machine Learning
+    url: https://www.spotifyjobs.com/job/vp-of-engineering-machine-learning-o1tk9fw7/
+    locations: ['New York', 'USA']
+    categories: ['Data &amp; Analytics', 'Engineering &amp; IT', 'Machine Learning', 'Software Engineering']
+
+    
+
+    title: Senior Growth Manager for Soundtrap
+    url: https://www.spotifyjobs.com/job/senior-growth-manager-for-soundtrap-om1l9fwb/
+    locations: ['Stockholm', 'Sweden']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Market Operations', 'Sales &amp; Marketing']
+
+    
+
+    title: Data Analytics Engineer, Experimentation
+    url: https://www.spotifyjobs.com/job/data-analytics-engineer-experimentation-ormg9fwc/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Forecasting Lead, Premium Analytics
+    url: https://www.spotifyjobs.com/job/forecasting-lead-premium-analytics-onsy9fwg/
+    locations: ['Stockholm', 'Sweden']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Product Insights Manager &#8211; Consumer Experience
+    url: https://www.spotifyjobs.com/job/product-insights-manager-consumer-experience-oxtg9fwz/
+    locations: ['Stockholm', 'Sweden']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Quantitative Market Researcher &#8211; Growth Opportunities
+    url: https://www.spotifyjobs.com/job/quantitative-market-researcher-growth-opportunities-ollb9fw0/
+    locations: ['New York', 'USA']
+    categories: ['Data &amp; Analytics', 'User Research']
+
+    
+
+    title: Data Scientist &#8211; Content Marketing Acquisition
+    url: https://www.spotifyjobs.com/job/data-scientist-content-marketing-acquisition-oubd9fwb/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Senior User Researcher
+    url: https://www.spotifyjobs.com/job/senior-user-researcher-ognu8fwp/
+    locations: ['Stockholm', 'Sweden']
+    categories: ['Data &amp; Analytics', 'Design &amp; UX', 'Product Design', 'User Research']
+
+    
+
+    title: Data Scientist, Premium Analytics
+    url: https://www.spotifyjobs.com/job/data-scientist-premium-analytics-odnl8fwd/
+    locations: ['Singapore', 'Singapore']
+    categories: ['Analytics', 'Data &amp; Analytics']
+
+    
+
+    title: Senior Data Scientist, Experimentation Practice
+    url: https://www.spotifyjobs.com/job/senior-data-scientist-experimentation-practice-o7yf9fwn/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics']
+
+    
+
+    title: Data Scientist &#8211; Content Marketing Engagement
+    url: https://www.spotifyjobs.com/job/data-scientist-content-marketing-engagement-oevz9fwb/
+    locations: ['New York', 'USA']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Senior User Researcher &#8211; Personalization
+    url: https://www.spotifyjobs.com/job/senior-user-researcher-personalization-oq5o7fwk/
+    locations: ['Boston', 'USA']
+    categories: ['Data &amp; Analytics', 'User Research']
+
+    
+
+    title: Data Scientist, Japan
+    url: https://www.spotifyjobs.com/job/data-scientist-japan-ou1s9fwq/
+    locations: ['Tokyo', 'Japan']
+    categories: ['Analytics', 'Data &amp; Analytics']
+
+    
+
+    title: Software Developer &#8211; Growth Initiatives for the Soundtrap hub
+    url: https://www.spotifyjobs.com/job/software-developer-growth-initiatives-for-the-soundtrap-hub-oleo9fwg/
+    locations: ['Stockholm', 'Sweden']
+    categories: ['Data &amp; Analytics', 'Data Science', 'Engineering &amp; IT', 'Software Engineering']
+
+    
+
+    title: Insights Lead, Global Product for Growth Opportunities
+    url: https://www.spotifyjobs.com/job/insights-lead-global-product-for-growth-opportunities-objj7fw4/
+    locations: ['Stockholm', 'Sweden']
+    categories: ['Analytics', 'Data &amp; Analytics', 'User Research']
+
+    
+
+    title: Sr. Data Scientist &#8211; Data for Insights Practice
+    url: https://www.spotifyjobs.com/job/sr-data-scientist-data-for-insights-practice-oorh9fwp/
+    locations: ['Stockholm', 'Sweden']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Data Scientist &#8211; Platform &#038; Partner Experiences
+    url: https://www.spotifyjobs.com/job/data-scientist-platform-partner-experiences-owzf8fwc/
+    locations: ['Stockholm', 'Sweden']
+    categories: ['Analytics', 'Data &amp; Analytics', 'Data Science']
+
+    
+
+    title: Director of Product Insights
+    url: https://www.spotifyjobs.com/job/director-of-product-insights-oom77fwi/
+    locations: ['Stockholm', 'Sweden']
+    categories: ['Analytics', 'Data &amp; Analytics', 'User Research']
+
+    
