@@ -6,9 +6,9 @@ import time
 
 def _make_spotify_job_request(initial_page=1, per_page=50):
     URL = 'https://www.spotifyjobs.com/wp-admin/admin-ajax.php'
-    DATASCIENCE = 343
+    DATASCIENCE_CATEGORY = 343
     payload = {'action': 'get_jobs', 'pageNr': initial_page,
-               'perPage': per_page, 'category': DATASCIENCE}
+               'perPage': per_page, 'category': DATASCIENCE_CATEGORY}
     response = requests.post(URL, data=payload)
     if response.status_code != 200:
         raise EOFError(f'Returned with response code {response.status_code}')
@@ -25,7 +25,7 @@ def _download_spotify_jobs_single_page(initial_page=1, per_page=50):
 
 
 def download_spotify_jobs():
-    """Call to download all spotify jobs.
+    """Call to download all spotify (datascience) jobs.
 
     Returns nested objects from API call.
     """
